@@ -30,3 +30,6 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 ## Questions
 If you have any questions about the project, feel free to contact me at [The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.](mailto:The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.).
+
+email: Somphang.Chanleuxay@gmail.com
+github: https://github.com/somphangchanleuxay
