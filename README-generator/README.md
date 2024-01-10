@@ -4,6 +4,8 @@
 ## Description
 This application will run whenever you need use a command line tool to help easily create a README for your project.
 
+[screenshot](/README-generator/assets/images/Screenshot%202024-01-10%20152529.png)
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -13,11 +15,15 @@ This application will run whenever you need use a command line tool to help easi
 - [Questions](#questions)
 
 ## Installation
+
 clone the repository files to your project via Gitbash or your apple terminal and type node index.mjs to run the commandline for the prompts of your README questions answer all questions and when you complete the last question and new 'README.md' file will be created for your project. 
+
+[video for installation](/README-generator/assets/videos/Installation.webm) 
 
 ## Usage
 just clone the file to your project and run node node.js and type node index.mjs for the command line prompt to appear and answer the questions that appear to create your own README with ease.
 
+[video for Usage](/README-generator/assets/videos/Usage.webm)
 
 ## License
 This project is licensed under the MIT License license.
